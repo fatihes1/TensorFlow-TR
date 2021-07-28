@@ -10,4 +10,6 @@
 
 
 # TensorFlow-TR
+![Capture](https://user-images.githubusercontent.com/54971670/127399994-35f95e42-e984-430a-8af6-3583ac904ffe.PNG)
 Udacity Tensorflow ile Derin Öğrenme eğitimi sırasında üzerinde çalıştığım colab dosyalarını içermektedir.
+
